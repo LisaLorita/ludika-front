@@ -1,3 +1,3 @@
 export const environment = {
-    baseUrl: 'http://ludika.com/api'
+    baseUrl: 'https://generous-art-production.up.railway.app/api',
 }
